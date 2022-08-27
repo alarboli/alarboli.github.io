@@ -1,0 +1,36 @@
+.icon.major.accent2 {
+  background: #0000FF;
+}
+
+.margin-ban {
+  margin-top: 40rem;
+}
+
+.prev,
+.next {
+    font-weight: 600;
+    font-size: 16px;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+    transition-duration: 0.3s;
+}
+
+.prev {
+  float: left;
+  margin-right: 3rem;
+}
+.prev:hover {
+  transform: translateX(-4px);
+}
+
+
+.next {
+  float: right;
+}
+.next:hover {
+  transform: translateX(4px);
+}
+.nav-mobile {
+  display: none;
+}
+
