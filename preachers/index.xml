@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preachers on Alarbolí</title>
-    <link>https://alarboli.github.io/preachers/</link>
+    <link>https://alarboli.org/preachers/</link>
     <description>Recent content in Preachers on Alarbolí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 May 2018 09:06:46 +1000</lastBuildDate><atom:link href="https://alarboli.github.io/preachers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 May 2018 09:06:46 +1000</lastBuildDate><atom:link href="https://alarboli.org/preachers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Martin Luther</title>
-      <link>https://alarboli.github.io/preachers/martin-luther/</link>
+      <link>https://alarboli.org/preachers/martin-luther/</link>
       <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
       
-      <guid>https://alarboli.github.io/preachers/martin-luther/</guid>
+      <guid>https://alarboli.org/preachers/martin-luther/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John Calvin</title>
-      <link>https://alarboli.github.io/preachers/john-calvin/</link>
+      <link>https://alarboli.org/preachers/john-calvin/</link>
       <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
       
-      <guid>https://alarboli.github.io/preachers/john-calvin/</guid>
+      <guid>https://alarboli.org/preachers/john-calvin/</guid>
       <description></description>
     </item>
     
