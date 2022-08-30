@@ -23,7 +23,7 @@
 
 		<link rel="stylesheet" href="https://alarboli.github.io/fontawesome/css/all.min.css" /><link rel="stylesheet" href="https://cdn.plyr.io/3.6.8/plyr.css"  crossorigin="anonymous">%!(EXTRA string=sha512-kuSeWNZsBfW/esn9MiIQ3hkFqNdHKljzVQYBOe7gPXGUNCE8KqrbZLHDSH005HrUwCI8erQ5iDrBHlSzTfSbmw==)<!--[if lte IE 8]><script src="https://alarboli.github.io/js/ie/html5shiv.min.js"></script><link rel="stylesheet" href="https://alarboli.github.io/scss/ie8.min.css" /><![endif]-->
 		
-		<link rel="stylesheet" href="https://alarboli.github.io/style.main.min.eb9b3c5cecf7cb60035af969fc7aaa97a29ecd65770d96060b10b0b6e8a24892.css" integrity="sha256-65s8XOz3y2ADWvlp/Hqql6KezWV3DZYGCxCwtuiiSJI=" media="screen" crossorigin="anonymous" />
+		<link rel="stylesheet" href="https://alarboli.github.io/style.main.min.afe75d65439aade4eac5230aeb7b5bfc7a5c91c9e6a90b3a43042e5fcc0c2290.css" integrity="sha256-r&#43;ddZUOareTqxSMK63tb/HpckcnmqQs6QwQuX8wMIpA=" media="screen" crossorigin="anonymous" />
 		<link rel="stylesheet" href="">
   	
 	</head>
@@ -126,20 +126,22 @@
 						
 						
 
-	<form method="POST" action="https://formspree.io/f/">
+	<form name="contact" method="POST" action="https://formsubmit.co/05bc7b3ff38138cbc8f6941852e3e523">
 		<div class="row gtr-50 gtr-uniform">
 			<div class="col-6 col-12-mobilep">
-				<input type="text" name="name" id="name" value="" aria-label="Tu nombre" placeholder="Tu nombre" />
+				<input type="text" name="name" aria-label="Your name" placeholder="Nombre">
 			</div>
 			<div class="col-6 col-12-mobilep">
-				<input type="email" name="_replyto" id="email" value="" aria-label="Correo electrónico" placeholder="Correo electrónico" />
+				<input type="email" name="email" aria-label="Email address" placeholder = "Correo Electrónico">
 			</div>
 			<div class="col-12">
-				<textarea name="message" id="message" aria-label="Ingrese su mensaje" placeholder="Ingrese su mensaje" rows="6"></textarea>
+				<textarea name="message" aria-label="Enter your message" placeholder="Ingresa un mensaje..." rows="6"></textarea>
 			</div>
 			<div class="col-12">
 				<ul class="actions special">
-					<li><input type="submit" value="Enviar" /></li>
+					<li>
+						<input type="submit" value="Send" name="send"/>
+					</li>
 				</ul>
 			</div>
 		</div>
