@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Plantación familiar colaborativa de árboles para nuestro Hogar on Alarbolí</title>
-    <link>https://alarboli.org/proyectos/plantacion_collico/</link>
-    <description>Recent content in Plantación familiar colaborativa de árboles para nuestro Hogar on Alarbolí</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 04 Aug 2022 17:05:39 -0400</lastBuildDate><atom:link href="https://alarboli.org/proyectos/plantacion_collico/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Plantación familiar colaborativa de árboles para nuestro Hogar on Alarbolí</title><link>https://alarboli.github.io/proyectos/plantacion_collico/</link><description>Recent content in Plantación familiar colaborativa de árboles para nuestro Hogar on Alarbolí</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 04 Aug 2022 17:05:39 -0400</lastBuildDate><atom:link href="https://alarboli.github.io/proyectos/plantacion_collico/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
